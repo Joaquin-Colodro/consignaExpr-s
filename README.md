@@ -5,3 +5,10 @@ Un ejemplo básico de esto podría ser: console.log("¡Hola, mundo!");
 Otro más avanzado: /* const nombre = "Alice"; 
                    const edad = 28;
                   console.log("Nombre:", nombre, "Edad:", edad); */
+## Metodos
+### console.error()
+Muestra un mensaje de error. Se pueden utilizar sustituciones de cadenas y argumentos adicionales con este método.
+### console.time()
+Inicia un temporizador con un nombre especificado como parámetro. Hasta 10 000 temporizadores simultáneos pueden ejecutarse en una página determinada.
+###console.warn()
+Muestra un mensaje de advertencia. Puedes usar sustituciones de cadenas y argumentos adicionales con este método.
