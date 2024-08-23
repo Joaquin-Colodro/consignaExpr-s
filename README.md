@@ -15,6 +15,6 @@ Muestra un mensaje de advertencia. Puedes usar sustituciones de cadenas y argume
 
 # ¿Que contenido debemos publicar en la consola?  
 ## Consola del Front-end 
-La consola del front-end se encuentra en el navegador del usuario. En esta se muestran mensajes que nos ayudan a ver qué pasa cuando el usuario interactúa con la aplicación, es decir, que nos muestran los errores por cada interacción.
+La consola del front-end se encuentra en el navegador del usuario. En esta se muestran mensajes que nos ayudan a ver qué pasa cuando el usuario interactúa con la aplicación, es decir, que nos muestran los errores por cada interacción.  Forma parte de las herramientas de desarrollo que están integradas en los navegadores web, accediendo a ellas a través de herramientas de desarrollador del navegador (DevTools). Sirve para manipular el DOM y CSS en tiempo real.
 ## Consola del Back-end
-La consola del back-end está en el servidor, donde se procesa la lógica de la aplicación y se manejan los datos.
+La consola del back-end está en el servidor, donde se procesa la lógica de la aplicación y se manejan los datos. Esta interactúa con el servidor, gestiona aplicaciones, y ejecuta scripts de backend. Está enfocada en la infraestructura del servidor y el desarrollo de la lógica.
