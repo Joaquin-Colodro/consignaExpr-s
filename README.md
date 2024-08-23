@@ -12,3 +12,9 @@ Muestra un mensaje de error. Se pueden utilizar sustituciones de cadenas y argum
 Inicia un temporizador con un nombre especificado como parámetro. Hasta 10 000 temporizadores simultáneos pueden ejecutarse en una página determinada.
 ### console.warn()
 Muestra un mensaje de advertencia. Puedes usar sustituciones de cadenas y argumentos adicionales con este método.
+
+# ¿Que contenido debemos publicar en la consola?  
+## Consola del Front-end 
+La consola del front-end se encuentra en el navegador del usuario. En esta se muestran mensajes que nos ayudan a ver qué pasa cuando el usuario interactúa con la aplicación, es decir, que nos muestran los errores por cada interacción.
+## Consola del Back-end
+La consola del back-end está en el servidor, donde se procesa la lógica de la aplicación y se manejan los datos.
