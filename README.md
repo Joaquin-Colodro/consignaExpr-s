@@ -12,6 +12,8 @@ Muestra un mensaje de error. Se pueden utilizar sustituciones de cadenas y argum
 Inicia un temporizador con un nombre especificado como parámetro. Hasta 10 000 temporizadores simultáneos pueden ejecutarse en una página determinada.
 ### console.warn()
 Muestra un mensaje de advertencia. Puedes usar sustituciones de cadenas y argumentos adicionales con este método.
+### console.trace()
+Muestra una traza de pila.
 
 # ¿Que contenido debemos publicar en la consola?  
 ## Consola del Front-end 
